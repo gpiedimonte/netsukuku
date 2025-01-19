@@ -52,6 +52,8 @@ nodes together as you want!
 
 The dependencies of netsukuku can be installed by running this command, For debian/ubuntu.
 
+    sudo add-apt-repository universe
+
     sudo apt-get install zlibc libgmp-dev openssl libssl-dev libgee-dev libpth-dev libgcrypt11-dev autoconf cmake autogen mawk gawk scons git
 
 For Archlinux, Try this.
